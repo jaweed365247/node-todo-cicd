@@ -1,4 +1,0 @@
-a for apple
-b for boy
-c for cat
-d for dog
